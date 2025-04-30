@@ -1,14 +1,14 @@
-└── project
-├── docker-compose.yml
-├── mysql
-│ ├── data
-│ └── init.sql
-├── nginx
-│ ├── default.conf
-│ └── index.html
-└── php
-├── Dockerfile
-└── process_form.php
+└── project <br>
+├── docker-compose.yml <br>
+├── mysql <br>
+│ ├── data <br>
+│ └── init.sql <br>
+├── nginx <br>
+│ ├── default.conf <br>
+│ └── index.html <br>
+└── php <br>
+├── Dockerfile <br>
+└── process_form.php <br>
 
 1.Create main directory as project
 2.Inside project create 3 sub directory as nginx, php, mysql
